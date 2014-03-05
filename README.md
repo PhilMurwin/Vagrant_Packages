@@ -19,3 +19,10 @@ TeamCity
 Sets up a [TeamCity](http://www.jetbrains.com/teamcity/) Server [(from JetBrains)](http://www.jetbrains.com/) in a VM with no build agents running.
 
 This package utilizes Ubuntu Precise Pangolin x64 as it's base and installs TeamCity either from a zip that's already been downloaded to the Software folder within the package or from JetBrains directly.
+
+
+Ubuntu-Dev
+-------------------
+Sets up an Ubuntu Linux Server machine intended for basic development.
+
+This package utilizes Ubuntu Precise Pangolin x64 as it's base.
